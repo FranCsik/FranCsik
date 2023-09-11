@@ -1,6 +1,5 @@
-### Francisco Csik -- @frann_csik
-
-¡Hi! I am a Full Stack Web Developer and a computer science student. 
+### Francisco Csik -- @FranCsik
+ 
 
 <!--
 **FranCsik/FranCsik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
